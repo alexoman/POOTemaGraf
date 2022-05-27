@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1653655564 source:e:\algoritmi avansati\tema2poo\arbore.cpp
+	"Arbore.h"
+	<bits/stdc++.h>
+	"Exceptii.h"
+
+1653655452 e:\algoritmi avansati\tema2poo\arbore.h
+	<bits/stdc++.h>
+	"Graf.h"
+	"Exceptii.h"
+
+1653651742 e:\algoritmi avansati\tema2poo\graf.h
+	<bits/stdc++.h>
+	"Exceptii.h"
+
+1653655444 e:\algoritmi avansati\tema2poo\exceptii.h
+	<exception>
+
+1653655406 source:e:\algoritmi avansati\tema2poo\complet.cpp
+	<bits/stdc++.h>
+	"Graf.h"
+	"Arbore.h"
+	"Complet.h"
+	"Exceptii.h"
+
+1653655264 e:\algoritmi avansati\tema2poo\complet.h
+	"Graf.h"
+	"Arbore.h"
+	<bits/stdc++.h>
+	"Exceptii.h"
+
+1653655595 source:e:\algoritmi avansati\tema2poo\graf.cpp
+	"Graf.h"
+	<bits/stdc++.h>
+	"Exceptii.h"
+
+1653651463 source:e:\algoritmi avansati\tema2poo\main.cpp
+	<bits/stdc++.h>
+	"Graf.h"
+	"Arbore.h"
+	"Complet.h"
+	"Exceptii.h"
+
